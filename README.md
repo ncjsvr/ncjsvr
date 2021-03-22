@@ -3,7 +3,7 @@
  
  <h1>GitHub Stats</h1>
 <div align="center">
-<img" align="center" src="https://github-readme-stats.vercel.app/api?username=ncjsvr&show_icons=true&count_private=true&theme=tokyonight#3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ncjsvr&show_icons=true&count_private=true&theme=tokyonight#3" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncjsvr&count_private=true&theme=tokyonight#3" />
 </div>
  
