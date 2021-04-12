@@ -19,4 +19,4 @@
  
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=ncjsvr&theme=flat#31" /><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ncjsvr&count_private=true#32" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ncjsvr#33" />
