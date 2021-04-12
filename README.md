@@ -1,8 +1,7 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=ncjsvr" /><br>
-![](https://hit.yhype.me/github/profile?user_id=6819907)
 <h1>Hey, I'm ncj!</h1>
 <p align="center">I am a 3rd Line IT Engineer with an interest in creating way too many side projects that I can't handle.</p>
  
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=ncjsvr&theme=flat&margin-w=5#27" /><br>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=ncjsvr&theme=flat&margin-w=5#27" /><br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ncjsvr&count_private=true#27" />
