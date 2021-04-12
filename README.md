@@ -1,6 +1,6 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=ncjsvr" /><br>
 <h1>Hey, I'm ncj!</h1>
-<p align="center">I am a 3rd Line IT Engineer with an interest in creating way too many side projects that I can't handle.</p>
+<p align="center">I am a 3rd Line IT Engineer with an interest in creating way too many side projects than I can't handle.</p>
  
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=ncjsvr&theme=flat&margin-w=5#27" /><br><br>
