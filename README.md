@@ -18,5 +18,5 @@
 <p align="center">I am a 3rd Line IT Engineer with an interest in creating way too many side projects than I can't handle.</p>
  
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=ncjsvr&theme=flat#35" /><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ncjsvr#35" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=ncjsvr&theme=flat#36" /><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ncjsvr#36" />
